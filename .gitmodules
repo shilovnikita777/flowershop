@@ -1,0 +1,9 @@
+[submodule "flowershop_client"]
+	path = flowershop_client
+	url = https://github.com/shilovnikita777/flowershop_client
+[submodule "flowershop_server"]
+	path = flowershop_server
+	url = https://github.com/shilovnikita777/flowershop_server
+[submodule "flowershop_admin"]
+	path = flowershop_admin
+	url = https://github.com/shilovnikita777/flowershop_admin
